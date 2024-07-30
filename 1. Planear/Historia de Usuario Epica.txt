@@ -1,0 +1,22 @@
+Historia de Usuario Epica
+
+1. Nombre del proyecto: SwimShop
+2. Proceso: Venta (Recibir el pedido del cliente) de articulos de natación.
+3. Actores: Comprador y vendedor de los articulos de natación
+4. Producto/Servicio: Articulos de natación.
+5. Escenario Actual: El vendedor utiliza un cuaderno para llevar el registro de las ventas, el cliente debe esperar a que el vendedor conozca el stock fisico del producto especifico del cliente.
+
+a. El cliente llega a la tienda y pregunta por un producto especifico.
+b. El vendedor revisa el stock si hay e indica el cliente.
+c. El cliente pregunta por la talla del producto.
+d. El vendedor busca confirma disponibilidad.
+e. El cliente pregunta por una marca en especifico.
+f. El vendedor confirma disponibilidad.
+g. El cliente decide comprar al articulo.
+h. El vendedor realiza la venta.
+
+6. Escenario Objetivo: El sistema le permita al vendedor realizar la venta de los articulos de natación e informar al cliente en tiempo minimo si existe stock del producto especifico,  ingresando el registro de la venta al sistema, teniendo conocimiento actualizado en tiempo real del inventario.
+
+7. Problematica: Se realiza el registro de las ventas de forma manual. No se tiene conocimiento del inventario actual al momento de varios clientes en la tienda interesados en el mismo producto y que ya se haya comprado, adicional el cliente debe esperar a que el vendedor tenga conocimiento del inventario actualizado. También reconocimiento en el mercado para posteriormente realizar domicilios.
+
+8. Solución: Sistematizar el registro de las ventas para tener conocimiento del inventario actualizado.
